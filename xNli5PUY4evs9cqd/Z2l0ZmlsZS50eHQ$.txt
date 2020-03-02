@@ -1,0 +1,6 @@
+-p, --platform: github
+-u, --user: urlib
+-r, --repository: 98k
+-t, --path: path/to
+-n, --name: file_name_without_ext
+-i, --id: id (program search from 0 to id)
